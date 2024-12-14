@@ -4,7 +4,7 @@ WSUS (Windows Server Update Services) permet de gérer centralement les mises à
 
 ## Contenu
 
-- [Guide d'installation de WSUS sur Windows Server](#guide-dinstallation-de-wsus-sur-windows-server)
+  - [Guide d'installation de WSUS sur Windows Server](#guide-dinstallation-de-wsus-sur-windows-server)
   - [Introduction](#introduction)
   - [Contenu](#contenu)
   - [1. Installation de WSUS](#1-installation-de-wsus)
