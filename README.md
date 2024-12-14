@@ -192,9 +192,3 @@ Fichiers .ESD :
 + Ajoutez un type MIME .esd dans IIS : application/octet-stream.
 
 + Redémarrez le site IIS WSUS.
-
-Ressources utiles
-
-<u>Documentation officielle de WSUS</u>
-
-<u>Téléchargements Microsoft nécessaires</u>
