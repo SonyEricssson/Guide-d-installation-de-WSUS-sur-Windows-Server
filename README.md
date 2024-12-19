@@ -1,4 +1,4 @@
-![WSUS-Logo](https://github.com/user-attachments/assets/1513aaeb-60a7-40ce-b02c-3688d6fa9e8c) <iframe src="https://giphy.com/embed/KyNTyl9brJH9xMwPFO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Landstreicher-Booking-update-lsb-landstreicher-KyNTyl9brJH9xMwPFO">via GIPHY</a></p>
+![WSUS-Logo](https://github.com/user-attachments/assets/1513aaeb-60a7-40ce-b02c-3688d6fa9e8c) 
 # Guide d'installation de WSUS sur Windows Server 
 ## Introduction
 WSUS (Windows Server Update Services) permet de gérer centralement les mises à jour de Windows dans un environnement d'entreprise. Ce guide vous aidera à configurer WSUS sur Windows Server.
